@@ -1,0 +1,27 @@
+{
+  "name": "easybank-landing-page-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjdeepak/easybank-landing-page.git"
+  },
+  "keywords": [
+    "HTML5",
+    "CSS3",
+    "Bootstrap5"
+  ],
+  "author": "kjdeepak4work@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjdeepak/easybank-landing-page/issues"
+  },
+  "homepage": "https://github.com/kjdeepak/easybank-landing-page#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
