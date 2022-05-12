@@ -47,6 +47,13 @@ body {
   font-size: 1.125rem;
 }
 
+footer {
+  .brand-logo {
+    filter: invert(100%) sepia(100%) saturate(80%) hue-rotate(180deg)
+      brightness(400%) contrast(100%);
+  }
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
